@@ -1,13 +1,13 @@
 # HW1 - Course Setup and RCR
 
-Your Name Here  
+Mohan Krishna Sunkara
 CS 800  
 Due: Jan 18, 2022
 
 ## Git, GitHub
 
 ***Q1.** What is your GitHub username?*
-
+mohankrishnas3
 ## ODU-CS Linux
 
 ***Q2:** How can you contact the Computer Science help desk?*
