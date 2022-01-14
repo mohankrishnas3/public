@@ -69,6 +69,7 @@ This is a simple table.
 ## Responsible Conduct of Research
 
 ***Q9.** Include the image in your report in place of the "Growth of the Early Web" image. Make sure to change the description of the image in the report.*
+<br/>
 <br/><img src="https://hostingtribunal.com/wp-content/uploads/2020/09/unnamed.jpg"  width = 400/>
 <br/>The above figure shows how revenue generated from big data is getting changed from country to country. 
 
