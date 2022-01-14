@@ -64,10 +64,14 @@ This is a simple table.
 ## LaTeX and Overleaf
 
 ***Q8.** What is the link to view your newly created project? (Under "Anyone with this link can view this project")*
+<br/>This is the link to view my newly created project "https://www.overleaf.com/read/sdpksjjgjhpx"
 
 ## Responsible Conduct of Research
 
 ***Q9.** Include the image in your report in place of the "Growth of the Early Web" image. Make sure to change the description of the image in the report.*
+<img src="https://hostingtribunal.com/wp-content/uploads/2020/09/unnamed.jpg"  width = 400/>
+<br/>The above figure shows how revenue generated from big data is getting changed from country to country. 
+
 
 The example figure below shows the growth in the number of websites between 1993 and 1996.  I've used HTML to insert this to show how images can be scaled.  Change the width value as needed so that your image is an appropriate size.
 
@@ -80,3 +84,8 @@ The example figure below shows the growth in the number of websites between 1993
 
 ***Q10.** Replace the references with three webpages that you've visited so far this semester related to this class. These should include both the title of the webpage/article and the URL.*
  
+ ## References
+
+* Big Data Statistics by Geography, https://hostingtribunal.com/blog/big-data-stats/#gref
+* GET HELP, https://www.odu.edu/ts/helpdesk
+* Python Program to Calculate the Area of a Triangle, https://www.programiz.com/python-programming/examples/area-triangle
